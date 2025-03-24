@@ -3,4 +3,4 @@ pydub
 numpy
 google-generativeai
 scipy
-
+soundfile
