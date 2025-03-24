@@ -1,0 +1,6 @@
+streamlit
+pydub
+numpy
+google-generativeai
+scipy
+tempfile
